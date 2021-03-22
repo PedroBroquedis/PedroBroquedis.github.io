@@ -13,7 +13,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://pedrobroquedis.github.io/docs/post_1/</guid>
-      <description>Primer post creado con Hugo en VisualStudio.</description>
+      <description>Ejercicio con Planos de Luz.</description>
     </item>
     
     <item>
@@ -23,6 +23,15 @@
       
       <guid>https://pedrobroquedis.github.io/docs/planos_de_luz/</guid>
       <description>Desarrollo de Planos de Luz y el cambio digital/análogo</description>
+    </item>
+    
+    <item>
+      <title>Videos Planos de Luz</title>
+      <link>https://pedrobroquedis.github.io/docs/videos_de_luz/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/docs/videos_de_luz/</guid>
+      <description>Ejercicio de Grabación y Animación de planos de luz.</description>
     </item>
     
     <item>
