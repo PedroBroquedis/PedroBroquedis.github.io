@@ -70,5 +70,14 @@
       <description>Ejercicio de Grabación y Animación de planos de luz.</description>
     </item>
     
+    <item>
+      <title>Ejercicios Fusion 360</title>
+      <link>https://pedrobroquedis.github.io/docs/ejercicios_fusion360/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/docs/ejercicios_fusion360/</guid>
+      <description>Férula    En este primer ejercicio se revisaron los pasos necesarios para modelar una férula en Fusion 360, utilizando secciones y loft, para después modificar la superficie generada.</description>
+    </item>
+    
   </channel>
 </rss>
