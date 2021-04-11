@@ -79,5 +79,14 @@
       <description>Férula    En este primer ejercicio se revisaron los pasos necesarios para modelar una férula en Fusion 360, utilizando secciones y loft, para después modificar la superficie generada.</description>
     </item>
     
+    <item>
+      <title>Modelado 3D con Fusion 360</title>
+      <link>https://pedrobroquedis.github.io/docs/hidroavion_fusion/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/docs/hidroavion_fusion/</guid>
+      <description>Modelado en Fusion 360    En esta ocasión, se trabajó con Fusion 360 en el modelado tanto de wearables como de elementos de movilidad, como vehículos. La idea de este ejercicio es poner a prueba los elementos aprendidos en los tutoriales anteriores, para, al mismo tiempo, probar la herramienta de modelado generativo.</description>
+    </item>
+    
   </channel>
 </rss>
