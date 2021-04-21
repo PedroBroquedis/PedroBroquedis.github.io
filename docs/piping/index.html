@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Entregable N°2 - Pedro Broquedis - MID 2021</title>
+  <title>Piping - Pedro Broquedis - MID 2021</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="https://pedrobroquedis.github.io/favicon.png">
@@ -106,7 +106,7 @@
       <a href="https://pedrobroquedis.github.io/docs/planos_de_luz/">Entregable N°1</a>
     </li>
     
-    <li class="active ">
+    <li class="">
       <a href="https://pedrobroquedis.github.io/docs/videos_planos_de_luz/">Entregable N°2</a>
     </li>
     
@@ -126,7 +126,7 @@
       <a href="https://pedrobroquedis.github.io/docs/hidroavion_fusion/">Modelado 3D con Fusion 360</a>
     </li>
     
-    <li class="">
+    <li class="active ">
       <a href="https://pedrobroquedis.github.io/docs/piping/">Piping</a>
     </li>
     
@@ -137,62 +137,36 @@
         </div>
         <div class="col-12 col-md-9">
           
-<h1 class="title">Entregable N°2</h1>
+<h1 class="title">Piping</h1>
 <div class="content ">
-  <p>Para este encargo se trabajó con las sombras generadas con distintos objetos en planos variados y con diversas fuentes de luz. Para esto, se trabajó tanto con grabaciones análogas como con animaciones en Keyshot.</p>
-<h1 id="planos-de-luz-en-movimiento">Planos de Luz en Movimiento</h1>
-<h3 id="animaciones">Animaciones</h3>
-<h5 id="animación-01">Animación 01</h5>
+  <h2 id="piping-en-fusion-360">Piping en Fusion 360</h2>
+<p>En esta instancia, se trabajó con Fusion 360 para generar una serie de grillas que después serían analizadas estructuralmente con el módulo de análisis del programa. Finalmente estas grillas serían renderizadas.</p>
 <div>
-    <video 
+    <iframe 
+    src='https://myhub.autodesk360.com/ue2b8dd11/shares/public/SH56a43QTfd62c1cd9681c94cbd4bb04c208?mode=embed'
     width="100%" 
     height="450" 
-    autoplay muted loop controls preload>
-    <source src="/img/Alas.mp4"  type="video/mp4">
-    </video>
+    allowfullscreen="true" 
+    webkitallowfullscreen="true" 
+    mozallowfullscreen="true"  
+    frameborder="0">
+    </iframe>    
 </div>
-<p>La primera animación cuenta con la oscilación de 4 aletas, inspiradas en el trabajo de Theo Jansen, que se superponen para crear sombras de distinta intensidad</p>
-<h5 id="animación-02">Animación 02</h5>
-<div>
-    <video 
-    width="100%" 
-    height="450" 
-    autoplay muted loop controls preload>
-    <source src="/img/Sombras.mp4"  type="video/mp4">
-    </video>
-</div>
-<p>Para la segunda animación se utilizó una geometría que contiene una luz en su interior, a su vez, se ve esta misma geometría de una mayor escala. Estas dos geometrías giran en sentidos contrarios, superponiendo las proyecciones de estas mismas.</p>
-<h3 id="grabaciones">Grabaciones</h3>
-<h5 id="grabación-01">Grabación 01</h5>
-<div>
-    <video 
-    width="100%" 
-    height="450" 
-    autoplay muted loop controls preload>
-    <source src="/img/Video%20Luz%20y%20sombra%20analogo.mp4"  type="video/mp4">
-    </video>
-</div>
-<p>En la primera grabación se utilizó un alambre como objeto y se cambió la localización del foco de luz.</p>
-<h5 id="grabación-02">Grabación 02</h5>
-<div>
-    <video 
-    width="100%" 
-    height="450" 
-    autoplay muted loop controls preload>
-    <source src="/img/Sombras%20varias.mp4"  type="video/mp4">
-    </video>
-</div>
-<p>Como última grabación está la proyección de sombras, donde el foco de luz cambia constantemente en la manera en la que incide en el objeto, generando sombras con constante cambio.</p>
-<h5 id="grabación-03">Grabación 03</h5>
-<div>
-    <video 
-    width="100%" 
-    height="450" 
-    autoplay muted loop controls preload>
-    <source src="/img/Traslaci%c3%b3n.mp4"  type="video/mp4">
-    </video>
-</div>
-<p>En esta grabación se utilizó una serie de reflejos y proyecciones de sombra en un techo, al mismo tiempo que se utiliza luz solar.</p>
+<h5 id="iteración-01">Iteración 01</h5>
+<p><img src="/img/Piping/v11.png" alt="Imagen Simple">
+Para la primera iteración se trabajó con un piping delgado que generaba triángulos y tenía un alto grado de curvatura en su figura.
+<img src="/img/Piping/v1.png" alt="Imagen Simple">
+Acá se puede ver la alta deformación generada por una fuerza generada desde uno de sus lados.</p>
+<h5 id="iteración-02">Iteración 02</h5>
+<p><img src="/img/Piping/v13.png" alt="Imagen Simple">
+Como se produjo una gran deformación en la primera prueba, se cambió el patrón con el fin de escalar el grosor del piping, además de reducir la deformación de la superficie base.
+<img src="/img/Piping/v3.png" alt="Imagen Simple">
+De modo similar, la grilla se deformó, pero en un menor grado.</p>
+<h5 id="iteración-03">Iteración 03</h5>
+<p><img src="/img/Piping/v12.png" alt="Imagen Simple">
+En la tercera iteración, se redujo aún más la deformación (manteniéndola de manera leve), al mismo tiempo, los triángulos fueron reemplazados por círculos para generar arcos que soporten la estructura
+<img src="/img/Piping/v2.png" alt="Imagen Simple">
+Se generó una deformación en la grilla, pero fue la menor de todas las iteraciones.</p>
 
 </div>
 </div>

@@ -88,5 +88,14 @@
       <description>Modelado en Fusion 360    En esta ocasión, se trabajó con Fusion 360 en el modelado tanto de wearables como de elementos de movilidad, como vehículos. La idea de este ejercicio es poner a prueba los elementos aprendidos en los tutoriales anteriores, para, al mismo tiempo, probar la herramienta de modelado generativo.</description>
     </item>
     
+    <item>
+      <title>Piping</title>
+      <link>https://pedrobroquedis.github.io/docs/piping/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/docs/piping/</guid>
+      <description>Piping en Fusion 360 En esta instancia, se trabajó con Fusion 360 para generar una serie de grillas que después serían analizadas estructuralmente con el módulo de análisis del programa. Finalmente estas grillas serían renderizadas.</description>
+    </item>
+    
   </channel>
 </rss>
