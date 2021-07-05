@@ -9,20 +9,29 @@
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
+      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/01ejemplo/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
+      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/01ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/markdown/</link>
+      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/02markdown/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/markdown/</guid>
+      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/02markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/04sketch/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/04sketch/</guid>
+      <description>Dibujos a Mano Alzada sobre Proyecto de Taller</description>
     </item>
     
   </channel>
