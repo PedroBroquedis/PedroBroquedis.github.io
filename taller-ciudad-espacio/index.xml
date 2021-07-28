@@ -26,12 +26,57 @@
     </item>
     
     <item>
-      <title>Sketch</title>
-      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/04sketch/</link>
+      <title>1 - Tema</title>
+      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/01tema/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/04sketch/</guid>
+      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/01tema/</guid>
+      <description>Tema</description>
+    </item>
+    
+    <item>
+      <title>2 - Dibujos</title>
+      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/02sketch/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/02sketch/</guid>
       <description>Dibujos a Mano Alzada sobre Proyecto de Taller</description>
+    </item>
+    
+    <item>
+      <title>3 - Propuesta de Valor</title>
+      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/03propuestadevalor/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/03propuestadevalor/</guid>
+      <description>Propuesta de Valor</description>
+    </item>
+    
+    <item>
+      <title>4 - Animaciones</title>
+      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/04videos/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/04videos/</guid>
+      <description>Animaciones</description>
+    </item>
+    
+    <item>
+      <title>5 - Modelos</title>
+      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/05modelos/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/05modelos/</guid>
+      <description>Modelos</description>
+    </item>
+    
+    <item>
+      <title>6 - Midterm</title>
+      <link>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/06midterm/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://pedrobroquedis.github.io/taller-ciudad-espacio/docs/06midterm/</guid>
+      <description>Midterm</description>
     </item>
     
   </channel>
